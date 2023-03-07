@@ -1,8 +1,6 @@
-# Getting Started with Create React App
+# Fetch Maths Questions
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+### Have used React.js + Tailwind CSS 
 
 In the project directory, you can run:
 
