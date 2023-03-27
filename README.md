@@ -1,4 +1,4 @@
-# Fetch Maths Questions
+# Fetching Maths Questions from an API
 
 ### Have used React.js + Tailwind CSS 
 
