@@ -2,7 +2,7 @@
 
 ### Have used React.js + Tailwind CSS 
 
-In the project directory, you can run:
+In the project directory, you can run :
 
  `npm start`
 
