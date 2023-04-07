@@ -1,6 +1,5 @@
 # Fetching Maths Questions from an API
 
-
 ### Have used React.js + Tailwind CSS 
 
 
